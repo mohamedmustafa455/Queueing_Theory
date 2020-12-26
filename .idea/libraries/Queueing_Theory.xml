@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Queueing_Theory">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Queueing_Theory.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
